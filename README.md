@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://telegra.ph/file/4bb5fd0de189c0ccd5fd6.jpg" alt="my banner">
-</p>
+
 
 <h3 align="center">
-Hi there, I'm Dilshodbek
+Hi there, I'm Musavvir
 </h3>
 
 <h2 align="center">
@@ -12,7 +10,7 @@ A passionate backend developer from Uzbekistan
 
 
 
-<p align="left"> <a href="https://github.com/devabsaitov"><img src="https://github-profile-trophy.vercel.app/?username=dilshoduz" alt="dilshoduz" /></a> </p>
+<p align="left"> <a href="https://github.com/musavvirdev"><img src="https://github-profile-trophy.vercel.app/?username=dilshoduz" alt="dilshoduz" /></a> </p>
 
 ### Connect with me:
 
